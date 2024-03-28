@@ -40,15 +40,15 @@ The goal of this project is to use the dataset to develop a model capable of acc
 After initial cleaning, 70815 rows and 20 columns remained, including the target.
 
 <p align="center">
-  <img src = ./Images/Screenshot 2024-03-28 at 7.22.43 AM.png>
+  <img src = ./cateda1.png>
 </p> 
 
 <p align="center">
-  <img src = ./Images/Screenshot 2024-03-28 at 7.24.00 AM.png>
+  <img src = ./Images/cateda2.png>
 </p> 
 
 <p align="center">
-  <img src = ./Images/Screenshot 2024-03-27 at 6.50.36 PM.png>
+  <img src = ./Images/cateda3.png>
 </p> 
 
 ### **Categorical Feature Chi-Squared and Visualization Analysis**
@@ -74,11 +74,11 @@ None of the numerical features appear to have significant linear relationship wi
 After preprocessing the data, which included one-hot encoding, the  dataframe again has 50 features. A PCA was conducted to attempt to reduce dimensionality and noise.
 
 <p align="center">
-  <img src = ./Images/Screenshot 2024-03-27 at 6.48.36 PM.png>
+  <img src = ./Images/PCA1.png>
 </p> 
 
 <p align="center">
-  <img src = ./Images/SScreenshot 2024-03-27 at 7.06.49 PM.png>
+  <img src = ./Images/PCA2.png>
 </p> 
 
 According the the visuals, 12-14 features seems to be the optimal amount of components to use.
