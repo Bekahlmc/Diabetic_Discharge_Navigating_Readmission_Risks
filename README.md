@@ -40,7 +40,7 @@ The goal of this project is to use the dataset to develop a model capable of acc
 After initial cleaning, 70815 rows and 20 columns remained, including the target.
 
 <p align="center">
-  <img src = ./cateda1.png>
+  <img src = ./Images/cateda1.png>
 </p> 
 
 <p align="center">
@@ -64,7 +64,7 @@ Here is the break down of the chi-squared results, considering that the null hyp
 ### **Numerical Feature Pearson's Correlation Analysis**
 
 <p align="center">
-  <img src = ./Images/Screenshot 2024-03-28 at 7.22.43 AM.png>
+  <img src = ./cateda2>
 </p> 
 
 None of the numerical features appear to have significant linear relationship with easly readmittance. Knowing this helps narrow down which type of models to consider.
@@ -82,3 +82,9 @@ After preprocessing the data, which included one-hot encoding, the  dataframe ag
 </p> 
 
 According the the visuals, 12-14 features seems to be the optimal amount of components to use.
+
+## Modeling
+
+### **Random Forest**
+
+Due to the number of features present and the complexity of the relationship the data shares with the target, a random forest with all of the features was utilized first.
