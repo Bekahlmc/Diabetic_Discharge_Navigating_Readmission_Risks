@@ -3,7 +3,7 @@
 #### Bekah McLaughlin
 
 <p align="center">
-  <img src = "img src = ./Images/pexels-mart-production-7089401.jpg">
+  <img src "./Images/pexels-mart-production-7089401.jpg">
 </p> 
 
 ## Overview
