@@ -3,7 +3,7 @@
 #### Bekah McLaughlin
 
 <p align="center">
-  <img src "github.com/Bekahlmc/Diabetic_Discharge_Navigating_Readmission_Risks/blob/main/Images/pexels-mart-production-7089401.jpg">
+  <img src "https://github.com/Bekahlmc/Diabetic_Discharge_Navigating_Readmission_Risks/blob/main/Images/pexels-mart-production-7089401.jpg">
 </p> 
 
 ## Overview
