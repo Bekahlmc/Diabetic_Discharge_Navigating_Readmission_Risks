@@ -54,7 +54,7 @@ After initial cleaning, 70815 rows and 20 columns remained, including the target
 ### **Categorical Feature Chi-Squared and Visualization Analysis**
 
 <p align="center">
-  <img src = ./Images/EDA2>
+  <img src = ./Images/EDA2.png>
 </p> 
 Here is the break down of the chi-squared results, considering that the null hypothesis in each instance is that each feature has no relationship with readmission and the alpha value is 0.05:
 
@@ -63,7 +63,7 @@ Here is the break down of the chi-squared results, considering that the null hyp
 ### **Numerical Feature Pearson's Correlation Analysis**
 
 <p align="center">
-  <img src = ./Images/EDA>
+  <img src = ./Images/EDA.png>
 </p> 
 
 None of the numerical features appear to have significant linear relationship with easly readmittance. Knowing this helps narrow down which type of models to consider.
