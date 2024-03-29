@@ -138,9 +138,14 @@ On a personal level, I gained insights into various challenges and strategies as
 Furthermore, the features identified as significant can serve as valuable starting points for further research into readmission risk factors.
 
 ## Repository Structure
+
+```
 ├── Data
 ├── Images
 ├── .gitignore
-├── Diabetic_Discharge_Navigating_Readmission_Risks.ipynb.gitignore
+├── Diabetic_Discharge_Navigating_Readmission_Risks.ipynb
 ├── Diabetic_Discharge_Navigating_Readmission_Risks.pdf
-├── README.md
+└── README.md
+```
+
+
